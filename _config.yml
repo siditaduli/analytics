@@ -46,8 +46,7 @@ permalink: /:title/
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/pdf/Resume_Sidita_Duli_Data_Analyst.pdf', text: 'Resume' }
+  - { url: './blob/master/pdf/Resume_Sidita_Duli_Data_Analyst.pdf', text: 'Resume' }
   # - { url: '/projects', text: 'Projects' }
   # - { url: '/stuff', text: 'Other stuff' }
   # - { url: '/about', text: 'About me' }
