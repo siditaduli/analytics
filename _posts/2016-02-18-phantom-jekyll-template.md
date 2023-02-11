@@ -1,8 +1,8 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Google Cloud Project'
-date: 2016-02-20 21:15:00
+date: 2023-02-09 21:15:00
 categories: development design
 tags: Google Cloud
 featured_image: 'img/posts/02_GCP_Project.png'
