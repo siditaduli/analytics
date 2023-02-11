@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Weathercast'
-date: 2016-02-20 15:56:00
+title: 'Movie Recommandation'
+date: 2023-02-10 15:56:00
 categories: development
-tags: JavaScript AngularJS API Sass
+tags: Python Django Analytics
 featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
-project_link: 'http://github.com/jamigibbs/weathercast'
+project_link: 'https://github.com/siditaduli/PortfolioProjects/tree/master/Django_Movie_Recommender_App/recommender'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'A simple weather forecast app for your favorite city.'
+lead_text: 'A Django project: Movie Recommandation.'
 ---
