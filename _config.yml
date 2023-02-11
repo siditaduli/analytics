@@ -20,7 +20,7 @@ baseurl: # the subpath of your site, e.g. /blog
 url: /portfolio # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'siditaduli.com'
 github_username: 'siditaduli'
-medium_username: '@siditaduli'
+medium_username: 'siditaduli.medium.com'
 
 section_title: 'Featured projects'
 # section_subtitle: "Focus on C/C++, python, ROS, Linux, Algorithm"
